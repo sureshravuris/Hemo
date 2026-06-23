@@ -19,7 +19,7 @@ const links = [
   {
     label: "GitHub",
     value: "github.com",
-    href: "https://github.com",
+    href: "https://github.com/sureshravuris",
     icon: Github,
     display: "View Projects on GitHub",
   },
